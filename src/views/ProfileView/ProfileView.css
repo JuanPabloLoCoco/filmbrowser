@@ -1,0 +1,4 @@
+.backArrow {
+  transform: rotate(180deg);
+  cursor: pointer;
+}
